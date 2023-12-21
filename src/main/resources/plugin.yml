@@ -1,0 +1,4 @@
+name: joinplug
+version: '${project.version}'
+main: me.cotopes.joinlug.Joinplug
+api-version: '1.20'
